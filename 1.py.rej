@@ -1,0 +1,5 @@
+diff a/1.py b/1.py	(rejected hunks)
+@@ -1 +1,2 @@
+-fileno.1
++# fileno.1
++
